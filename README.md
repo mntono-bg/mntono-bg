@@ -1,7 +1,5 @@
-# 🚀 Bienvenue sur mon profil GitHub !
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Bonjour%20👋&fontSize=60&fontAlignY=35&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=🚀%20Bienvenue%20sur%20mon%20profil%20GitHub%20!%20👋&fontSize=60&fontAlignY=35&animation=fadeIn" />
   <img src="https://komarev.com/ghpvc/?username=mntono-bg&color=blueviolet&style=flat-square" />
 </div>
 
