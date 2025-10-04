@@ -3,7 +3,6 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Bonjour%20👋&fontSize=60&fontAlignY=35&animation=fadeIn" />
   <img src="https://komarev.com/ghpvc/?username=mntono-bg&color=blueviolet&style=flat-square" />
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Développeur+Passionné;Créatif+et+Curieux;Amoureux+du+Code;Innovation+%26+Technologie" alt="Typing SVG" />
 </div>
 
 ---
@@ -31,22 +30,6 @@ Entre **innovation, design et performance**, j’aime donner vie à des idées q
 - ⚙️ **Explorer** les nouvelles technologies front-end et back-end  
 - 🌐 **Collaborer** sur des projets open-source et partager mes connaissances  
 - 💭 **Imaginer** des solutions créatives à des problèmes complexes  
-
----
-
-### 🛠️ Mon univers technique
-
-<div align="center">
-
-| **Domaines** | **Technos & Outils Préférés** |
-|:-------------|:------------------------------|
-| 💻 **Front-End** | React · Vue.js · TailwindCSS · Sass |
-| 🔧 **Back-End** | Node.js · Express · Django · FastAPI |
-| ☁️ **DevOps & Cloud** | Docker · AWS · GitHub Actions |
-| 🗄️ **Bases de données** | PostgreSQL · MongoDB · MySQL · Redis |
-| 🎨 **Design & Outils** | Figma · Postman · VS Code · Git |
-
-</div>
 
 ---
 
