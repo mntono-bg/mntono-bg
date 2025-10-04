@@ -10,7 +10,7 @@
 ## 🌟 À propos de moi  
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00E6FF&center=true&vCenter=true&width=600&lines=Hello,+moi+c'est+Mntono!;Développeur+Full-Stack+Passionné💻;Créatif,+Curieux+et+Toujours+en+Quête+d'Innovation🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00E6FF&center=true&vCenter=true&width=600&lines=Hello,+moi+c'est+Mntono!;Développeur+Full-Stack+Passionné💻;Créatif+Curieux;Toujours+en+Quête+d'Innovation🚀" alt="Typing SVG" />
 </div>
 
 ---
@@ -50,16 +50,6 @@ Entre **innovation, design et performance**, j’aime donner vie à des idées q
 
 ---
 
-<div align="center">
-
-✨ *Toujours prêt à relever de nouveaux défis et à transformer une idée en réalité numérique.*  
-🌍 *Si tu veux créer quelque chose d’unique — je suis partant !*  
-
-</div>
-
-
----
-
 ## 📊 Mes Stats GitHub
 
 <div align="center">
@@ -77,13 +67,21 @@ Entre **innovation, design et performance**, j’aime donner vie à des idées q
 
 ## 🛠️ Mon Stack Technique
 
-### 💻 Langages & Frameworks
+### 💻 Langages & Frameworks  
+
+<div align="center">
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![ReactJS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+</div>
+
 
 ### 🗄️ Bases de Données & Cloud
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
