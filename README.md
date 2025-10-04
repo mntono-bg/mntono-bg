@@ -55,9 +55,10 @@ Entre **innovation, design et performance**, j’aime donner vie à des idées q
     <tr>
       <td><img src="https://github-readme-stats.vercel.app/api?username=mntono-bg&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" /></td>
       <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=mntono-bg&theme=radical&hide_border=true" /></td>
+      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mntono-bg&layout=compact&theme=radical&hide_border=true&langs_count=8" /></td>
     </tr>
   </table>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mntono-bg&layout=compact&theme=radical&hide_border=true&langs_count=8" />
+  
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mntono-bg&theme=react-dark&bg_color=20232a&hide_border=true&area=true&custom_title=Mes%20Contributions%20GitHub" width="100%"/>
 </div>
 
