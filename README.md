@@ -8,32 +8,72 @@
 
 ---
 
-## 🌟 À propos de moi
+## 🌟 À propos de moi  
 
-```javascript
-const mntono = {
-  pronouns: "il" | "lui",
-  code: ["JavaScript", "TypeScript", "Python", "Java"],
-  technologies: {
-    frontend: {
-      js: ["React", "Vue", "Angular"],
-      css: ["Tailwind", "Sass", "Bootstrap"]
-    },
-    backend: {
-      js: ["Node.js", "Express", "NestJS"],
-      python: ["Django", "FastAPI"],
-      java: ["Spring Boot"]
-    },
-    mobile: ["React Native", "Flutter"],
-    database: ["MySQL", "PostgreSQL", "MongoDB", "Redis"],
-    devops: ["Docker", "AWS", "GitHub Actions"],
-    tools: ["Git", "VS Code", "Figma", "Postman"]
-  },
-  architecture: ["Microservices", "MVC", "Serverless"],
-  currentFocus: "Créer des applications innovantes 🚀",
-  funFact: "Je peux debugger du code juste en le regardant intensément 👀"
-};
-```
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00E6FF&center=true&vCenter=true&width=600&lines=Hello,+moi+c'est+Mntono!;Développeur+Full-Stack+Passionné💻;Créatif,+Curieux+et+Toujours+en+Quête+d'Innovation🚀" alt="Typing SVG" />
+</div>
+
+---
+
+👋 **Enchanté !**  
+Je suis un **développeur full-stack passionné** par la création d’expériences web et mobiles modernes.  
+Entre **innovation, design et performance**, j’aime donner vie à des idées qui repoussent les limites du possible.  
+
+💡 **Ma philosophie :**  
+> “Le code est un art. Chaque ligne doit raconter une histoire.”  
+
+---
+
+### 🔍 Ce que j’aime faire
+
+- 🧩 **Concevoir** des applications élégantes, performantes et intuitives  
+- ⚙️ **Explorer** les nouvelles technologies front-end et back-end  
+- 🌐 **Collaborer** sur des projets open-source et partager mes connaissances  
+- 💭 **Imaginer** des solutions créatives à des problèmes complexes  
+
+---
+
+### 🛠️ Mon univers technique
+
+<div align="center">
+
+| **Domaines** | **Technos & Outils Préférés** |
+|:-------------|:------------------------------|
+| 💻 **Front-End** | React · Vue.js · TailwindCSS · Sass |
+| 🔧 **Back-End** | Node.js · Express · Django · FastAPI |
+| ☁️ **DevOps & Cloud** | Docker · AWS · GitHub Actions |
+| 🗄️ **Bases de données** | PostgreSQL · MongoDB · MySQL · Redis |
+| 🎨 **Design & Outils** | Figma · Postman · VS Code · Git |
+
+</div>
+
+---
+
+### 🚀 Ce qui me motive
+
+💬 Créer des produits qui ont un **impact réel**  
+🤝 Travailler dans une **équipe soudée et passionnée**  
+📚 Apprendre **chaque jour** et partager ce que je découvre  
+
+---
+
+### ⚡ Fun Facts
+
+- 🎯 Je code souvent avec un café à la main ☕  
+- 🎵 Je ne peux pas coder sans musique (lofi, electro ou jazz)  
+- 🧠 Je retiens les erreurs de code mieux que les anniversaires 😅  
+- 🕹️ Je suis aussi un grand fan de jeux rétro et de pixel art  
+
+---
+
+<div align="center">
+
+✨ *Toujours prêt à relever de nouveaux défis et à transformer une idée en réalité numérique.*  
+🌍 *Si tu veux créer quelque chose d’unique — je suis partant !*  
+
+</div>
+
 
 ---
 
